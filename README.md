@@ -2,7 +2,7 @@
 Aula do Professor PhD, Bruno Zolotareff dos Santos <br> 
 Fatec Mauá- Informática para Negócios
 
-Link: https:https://github.com/Gaab1234/felixinfo.git
+Link: https:https://gaab1234.github.io/felixinfo/
 
 ## Grupo
 Gabriella Galdino<br>
