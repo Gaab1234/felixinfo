@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <style>
+        .container{
+            display: flex; 
+            margin-left: 500px;
+            margin-right: 100px;
+            margin-top: 100px;
+            
+        }
+
+        .tamanho{
+            width: 180px;
+            height: 300px;
+
+        }
+        .forms{
+            display: flex; /* or inline-flex */
+            flex-direction: column;
+            background-color: yellowgreen;
+
+            margin-left: 50px;
+            margin-right: 400px;
+
+            gap: 5px;
+
+        }
+        .caixa{
+            font-size: 16px;
+            font-family: 'Times New Roman', Times, serif;
+            background-color: bisque;
+            color: blueviolet;
+            font-weight: bold;
+        }
+        .btn1{
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 20%;
+        }
+        .btn1:hover{
+
+            background-color: bisque;
+            color: brown;
+        }
+        .btn2{
+            font-size: 16px;
+            font-weight: bold;
+            border-radius: 20%;
+        }
+        .btn2:hover{
+
+            background-color: bisque;
+            color: brown;
+        }
+
+    </style>
+
+    <div class="container">
+        <img src="img/felix_img.png" alt="Gato" class="tamanho" >
+        
+        <div class="forms">
+            <h1> Cadastro do Clube Felix</h1>
+            <input type="text" id="nome" placeholder="Coloque seu nome" class="caixa">
+            <input type="text" id="email" placeholder="Seu e-mail" class="caixa">
+            <input type="text" id="fone"  placeholder="Seu telefone" class="caixa">
+
+            <button type="button" id="Cadastrar" class="btn1">Cadastrar</button>
+            <button type="button" id="Enviar" class="btn2">Enviar</button>
+        </div>
+
+    </div>
+
+</body>
+</html>
