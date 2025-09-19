@@ -1,5 +1,8 @@
 # Projeto Gato Félix - Disciplina Informática e Negócios
-Aula do Professor PhD, Bruno Zolotareff dos Santos- Fatec Mauá- Informática para Negócios
+Aula do Professor PhD, Bruno Zolotareff dos Santos <br> 
+Fatec Mauá- Informática para Negócios
 
-Grupo
-Gabriella Galdino, Diego Freitas
+
+## Grupo
+Gabriella Galdino<br>
+Diego Freitas
