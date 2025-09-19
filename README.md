@@ -2,4 +2,4 @@
 Aula do Professor PhD, Bruno Zolotareff dos Santos- Fatec Mauá- Informática para Negócios
 
 Grupo
-Gabriella,
+Gabriella Galdino, Diego freitas
